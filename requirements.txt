@@ -1,0 +1,3 @@
+requests==2.25.1
+bilibili_api==2.1.4
+pyppeteer==0.2.5
